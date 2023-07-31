@@ -8,6 +8,7 @@
 
 img {
     width: 100vw;
+    
 }
 
 a {
@@ -15,6 +16,7 @@ a {
     background-color: darkred;
     color: rgb(255, 255, 255);
     padding: 20px;
+    
 
     text-align: center;
     font-weight: bolder;
